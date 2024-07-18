@@ -1,1 +1,1 @@
-![tryhackme stats](https://raw.githubusercontent.com/achuf/achuf/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/achufistov/achufistov/master/assets/thm_propic.png)
