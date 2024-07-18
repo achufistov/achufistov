@@ -1,6 +1,9 @@
 Skills
+
 👨‍💻 appsec
-🛠️ automation, web2, python 
+
+🛠️ automation, web2, python
+
 ⚙️ sast/dast/sca enjoyer
 
 
