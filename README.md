@@ -2,7 +2,7 @@
 
 👨‍💻 appsec
 
-🛠️ automation, web2, python
+🛠️ automation, web2, python/go
 
 ⚙️ sast/dast/sca enjoyer
 
